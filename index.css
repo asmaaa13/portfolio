@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(243, 204, 204);
+    font-size: 22px;
+    padding: 0 12px;
+}
+a{
+    padding: 10px;
+}
+#tof{
+    border-radius: 50%;
+    border: solid 2px black;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 15%;
+
+      }
+}
+.title{ 
+    color: rgb(78, 28, 126);
+    font-size: 45px;
+    font-style: italic;
+   
+}
+h1{
+    color: crimson;
+    font-size: 30px;
+    text-decoration: underline;
+    text-shadow: 2px 2px black;
+
+}
+article p{
+
+    border: 1px solid black;
+    padding-top: 24px;
+    padding-bottom: 12px;
+    padding-left: 36px;
+    padding-right: 36px;
+}
